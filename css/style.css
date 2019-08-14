@@ -1,0 +1,149 @@
+
+.navbar{
+  background-color: black;
+  height: 62px;
+  width: 100%;
+  margin-bottom:0px;
+}
+.navLogo{
+  float: left;
+  height: 52px;
+  width: 120px;
+  padding-left: : 35px;
+  padding-top: 5px;
+
+}
+.navbar a{
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding:16px;
+  text-decoration: none;
+  font-size: 22px;
+  padding-top: 20px
+
+}
+#content p{
+  font-size: 18px;
+  font-style: oblique;
+  font-family: cursive;
+  font-weight: 200;
+  text-align: center;
+
+}
+#content h1{
+  text-align: center;
+  font-size: 34px;
+  font-family:cursive;
+  font-weight: 800;
+  font-stretch: ultra-expanded;
+  text-decoration-style: wavy;
+  text-decoration: underline;
+  font-style: italic;
+}
+#content h2{
+  text-align: center;
+  font-size: 24px;
+  text-decoration-style: wavy;
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: cursive;
+
+}
+#content{
+  margin-bottom: 10px;
+  border-radius: 30px;
+}
+#details{
+  margin-bottom: 20px;
+
+}
+#landing-part{
+  background-image: url("nyamachoma.jpg");
+  background-repeat:no-repeat;
+  border-bottom-left-radius: 200px;
+  border-bottom-right-radius: 200px;
+  border: 1px solid;
+  border-style: ridge;
+  margin-top: 0px;
+  text-align: center;
+  text-decoration-style: wavy;
+  font-style: italic;
+  font-family: cursive;
+  font-weight: bold;
+  font-stretch: ultra-expanded;
+  background-size: contain;
+  background-position: center;
+  background-color: #89732B;
+  height: 100vh;
+  color: white;
+}
+#landing-part h1{
+  font-size: 65px;
+}
+#landing-part p{
+  font-size: 40px;
+}
+#landing-part button{
+  border-style: inset;
+  border-radius: 10px;
+  text-align: center;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 15px;
+  color: #F74343;
+  background-color: black;
+  opacity: 0.75;
+
+}
+
+#aboutCalku{
+float: left;
+width: 625px;
+border-right: 5px solid;
+border-right-width: thick;
+padding: 15px;
+}
+#visionCalku{
+  float: right;
+  width: 625px;
+  padding: 20px;
+}
+body{
+  background-color: #E6D394;
+}
+#footer{
+  margin-top: 500px;
+  background-color: #262625 ;
+  background-size: contain
+}
+#footer li{
+  text-align: center;
+  list-style-type: none;
+  font-size: 18px;
+  font-weight: 300;
+  font-family: cursive;
+  color: #EBECEC;
+}
+#footer h2{
+  text-align: center;
+  font-size: 39px;
+  color: #EBECEC;
+}
+#footer img{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+#footer span{
+  align-content: center;
+}
+#menu{
+  align-items: center;
+  text-align: center;
+}
+#icons{
+  align-content: center;
+  margin-left: 615px;
+}

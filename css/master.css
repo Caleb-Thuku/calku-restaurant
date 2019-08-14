@@ -1,0 +1,71 @@
+.navbar{
+  background-color: black;
+  height: 62px;
+  width: 100%;
+  margin-bottom:0px;
+}
+.navLogo{
+  float: left;
+  height: 52px;
+  width: 120px;
+  padding-left: : 35px;
+  padding-top: 5px;
+
+}
+.navbar a{
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding:16px;
+  text-decoration: none;
+  font-size: 22px;
+  padding-top: 20px
+
+}
+
+h1{
+
+}
+#orderPart{
+  opacity: 0.8;
+  border: 1px solid;
+  border-radius: 800px;
+  font-family: cursive;
+  font-size: 30px;
+  text-align: center;
+  padding: 40px;
+  margin-top: 50px;
+  font-weight: 400;
+  background-color: #FEF5C5;
+}
+
+table.center {
+     margin-left:auto;
+     margin-right:auto;
+    }
+
+body{
+  background-image: url('foodF.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+form{
+
+opacity: 0.8;
+border: 1px solid;
+border-radius: 800px;
+font-family: cursive;
+font-size: 30px;
+text-align: center;
+padding: 40px;
+margin-top: 50px;
+font-weight: 400;
+background-color: #FEF5C5;
+
+}
+h1{
+  text-align: center;
+  font-size: 50px;
+  font-weight: 900;
+}
